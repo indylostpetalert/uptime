@@ -4,19 +4,19 @@
     "url": "https://www.indylostpetalert.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.indylostpetalert.com.ico",
     "slug": "indy-lost-pet-alert-wordpress",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 782,
-    "timeWeek": 772,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 741,
+    "timeDay": 797,
+    "timeWeek": 777,
+    "timeMonth": 741,
+    "timeYear": 741,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 21
     }
   }
 ]

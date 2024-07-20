@@ -6,15 +6,15 @@
     "slug": "indy-lost-pet-alert-wordpress",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 741,
-    "timeDay": 812,
-    "timeWeek": 778,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "time": 746,
+    "timeDay": 840,
+    "timeWeek": 780,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2024-07-18": 21
     }
